@@ -1,1 +1,1 @@
-# 3 estilo forma diferente de barra de navegação para aplicar num projecto.
+# 3 estilos diferentes de barra de navegação para aplicar num projecto.
